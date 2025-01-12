@@ -7,6 +7,7 @@ export const Header: React.FC = () => {
       <div className="container mx-auto flex justify-between items-center py-6 px-4 md:px-8">
         <Link href="/" className="text-3xl md:text-5xl font-bold text-gray-800 tracking-tight">
           Splash App
+          
         </Link>
 
         {/* Button Group */}
